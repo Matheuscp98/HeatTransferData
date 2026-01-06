@@ -1,6 +1,6 @@
 # 🌀 Hydrodynamics in turbomachinery system using Computational Fluid Dynamics
 
-**DOI:** [10.5281/zenodo.18155760](https://doi.org/10.5281/zenodo.18155760)
+**DOI:** 
 
 ---
 
