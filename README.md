@@ -1,4 +1,4 @@
-# 🌀 Hydrodynamics in turbomachinery system using Computational Fluid Dynamics
+# 🌀 Database Hydrodynamic System
 
 **DOI:** [10.5281/zenodo.18166909](https://doi.org/10.5281/zenodo.18166909)
 
@@ -66,7 +66,8 @@ This repository is part of the research study:
 | ε | Turbulence dissipation rate | ×10⁻³ |
 | Re | Reynolds number | ×10⁻⁶ |
 | y+ | Wall coordinate (dimensionless) | ×10⁻¹ |
-
+| ΔP_target | Pressure difference from test bench result | ×10³ Pa |
+| Re_target | Reynolds number from test bench results | ×10⁻⁶ |
 
 ---
 
