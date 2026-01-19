@@ -1,4 +1,4 @@
-# 🌀 Database Hydrodynamic System
+# 🌀 Hydrodynamic System Database
 
 **DOI:** [10.5281/zenodo.18302125](https://doi.org/10.5281/zenodo.18302125)
 
