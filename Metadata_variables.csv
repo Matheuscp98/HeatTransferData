@@ -1,0 +1,25 @@
+﻿Variable,Type,Abbreviation,Unit,Source
+Volume Mesh Size,Input,MV,mm,CFD
+Inlet Mesh Size,Input,ME,mm,CFD
+Outlet Mesh Size,Input,MS,mm,CFD
+Mass Flow Rate,Input,ṁ,kg/s,CFD/ Experimental
+Convergence Criterion,Input,CC,adm,CFD
+Mesh Generation Cost,Output,CM,US$,CFD
+Number of Elements,Output,Nel,adm,CFD
+Mesh Quality,Output,Q,adm,CFD
+Aspect Ratio,Output,AR,adm,CFD
+Orthogonality,Output,Ortho,adm,CFD
+Skewness,Output,Skew,adm,CFD
+Simulation Cost,Output,CS,US$s,CFD
+Number of Iterations,Output,It,adm,CFD
+Velocity RMS Residual,Output,VM_RMS,m/s,CFD
+Pressure Drop,Output,ΔP,Pa,CFD
+Turbulent Kinetic Energy,Output,k,m²/s²,CFD
+Turbulent Dissipation Rate,Output,ε,m²/s³,CFD
+Reynolds Number,Output,Re,adm,CFD
+Wall Coordinate,Output,y⁺,adm,CFD
+Fluid Velocity,Output,v,m/s,Experimental
+Pressure Inlet Value,Output,P_inlet,Pa,Experimental
+Pressure Outlet Value,Output,P_outlet,Pa,Experimental
+Experimental Pressure Drop,Target,ΔP_target,Pa,Experimental
+Reynolds Number from experimental,Target,Re_target,adm,Experimental
